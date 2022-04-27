@@ -28,7 +28,7 @@ Module PlayerScore
 
 		sum = CalculateScore(wOBA, wRC, barrel, oSwing)
 
-		System.Console.WriteLine("The score is:  {0}", sum)
+		System.Console.WriteLine("The score is: {0}", sum)
 
 		System.Console.ReadLine()
 
